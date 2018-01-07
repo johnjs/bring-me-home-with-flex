@@ -1,0 +1,17 @@
+{
+  "name": "bring-me-home-with-flex",
+  "version": "0.0.0",
+  "description": "bring-me-home-with-flex ===============",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnjs/bring-me-home-with-flex.git"
+  },
+  "author": "johnjs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnjs/bring-me-home-with-flex/issues"
+  },
+  "homepage": "https://github.com/johnjs/bring-me-home-with-flex#readme"
+}
